@@ -10,7 +10,8 @@
     "format": "prettier --write **/src/*.{ts,tsx,js,jsx,json,yaml}",
     "lint": "eslint src/**/*.{ts,tsx,js,jsx}",
     "lint:fix": "pnpm run lint --fix",
-    "test": "jest"
+    "test": "jest",
+    "test:fix": "pnpm run test --fix",
   },
   "dependencies": {
     "axios": "^0.27.2",

@@ -27,6 +27,12 @@ $ pnpm start
 
 # build mode
 $ pnpm build
+```
+#### Testing the app
+
+```bash
+# run all test
+$ pnpm test
 
 ```
 
